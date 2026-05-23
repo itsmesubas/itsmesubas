@@ -14,13 +14,7 @@
 
 </p>
 
-- ## 📈 Most Used Languages:
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesubas&layout=compact&theme=tokyonight" />
-
-</p>
 
 
  📌 Featured Projects
@@ -49,12 +43,6 @@ Personal portfolio showcasing my projects and skills.
 - Email: dahalsubaash12345@gmail.com
 
 - <p align="left">
-<a href="https://www.subashdahal17.com.np/" target="blank">
-<img align="center"
-src="https://skillicons.dev/icons?i=portfolio"
-height="40" />
-</a>
-
 <a href="https://www.linkedin.com/in/subash-dahal-8430712b2/" target="blank">
 <img align="center"
 src="https://skillicons.dev/icons?i=linkedin"
