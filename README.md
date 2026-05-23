@@ -1,4 +1,4 @@
-# Hi, I'm Subash Dahal 👋
+ Hi, I'm Subash Dahal 👋
 
 💻 Software Engineering Student from Nepal  
 🌱 Currently learning Full Stack Development, Data Analytics & Mobile App Development  
@@ -6,9 +6,9 @@
 📊 Interested in Data Analytics, Recommendation Systems and Smart Applications  
 🎯 Looking for Internship Opportunities
 
----
 
-## 🚀 Tech Stack
+
+ 🚀 Tech Stack
 
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: PHP, Node.js
@@ -16,23 +16,22 @@
 - Tools: Git, GitHub, Canva, VS Code
 - Data Analytics: Excel, Power BI (Learning)
 
----
 
-## 📌 Featured Projects
+ 📌 Featured Projects
 
-### 🛒 Thrifty - Thrift Store Website
-A thrift shopping platform with recommendation system.
+ Thrifty - Thrift Store Website
+A thrift shopping platform where people can buy second hand electronic gadget in cheap price.
 
-### 📱 Nepal Tourism Data App
+ Nepal Tourism Data App
 Mobile app that analyzes tourism data and helps tourists explore Nepal.
 
-### 🌐 Portfolio Website
+ Portfolio Website
 Personal portfolio showcasing my projects and skills.
 
----
 
-## 📫 Connect With Me
 
-- LinkedIn: your-link
-- Portfolio: your-link
-- Email: your-email
+ Connect With Me:
+
+- LinkedIn: https://www.linkedin.com/in/subash-dahal-8430712b2/
+- Portfolio: www.subashdahal17.com.np
+- Email: dahalsubaash12345@gmail.com
