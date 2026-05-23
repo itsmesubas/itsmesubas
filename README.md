@@ -14,14 +14,6 @@
 
 </p>
 
- 🚀 Tech Stack
-
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: PHP, Node.js
-- Database: MySQL
-- Tools: Git, GitHub, Canva, VS Code
-- Data Analytics: Excel, Power BI (Learning)
-
 - ## 📈 Most Used Languages:
 
 <p align="center">
@@ -41,13 +33,6 @@ Mobile app that analyzes tourism data and helps tourists explore Nepal.
 
  Portfolio Website
 Personal portfolio showcasing my projects and skills.
-## 📊 GitHub Stats:
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsmesubas&show_icons=true&theme=tokyonight" />
-
-</p>
 
 ## 🔥 GitHub Streak Stats:
 
@@ -62,3 +47,17 @@ Personal portfolio showcasing my projects and skills.
 - LinkedIn: https://www.linkedin.com/in/subash-dahal-8430712b2/
 - Portfolio: www.subashdahal17.com.np
 - Email: dahalsubaash12345@gmail.com
+
+- <p align="left">
+<a href="https://www.subashdahal17.com.np/" target="blank">
+<img align="center"
+src="https://skillicons.dev/icons?i=portfolio"
+height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/subash-dahal-8430712b2/" target="blank">
+<img align="center"
+src="https://skillicons.dev/icons?i=linkedin"
+height="40" />
+</a>
+</p>
