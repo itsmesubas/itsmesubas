@@ -6,7 +6,13 @@
 📊 Interested in Data Analytics, Recommendation Systems and Smart Applications  
 🎯 Looking for Internship Opportunities
 
+## 💻 Languages and Tools:
 
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,python,java,git,github,mongodb,vscode,figma,firebase,powerbi,excel" />
+
+</p>
 
  🚀 Tech Stack
 
@@ -15,6 +21,14 @@
 - Database: MySQL
 - Tools: Git, GitHub, Canva, VS Code
 - Data Analytics: Excel, Power BI (Learning)
+
+- ## 📈 Most Used Languages:
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesubas&layout=compact&theme=tokyonight" />
+
+</p>
 
 
  📌 Featured Projects
@@ -27,6 +41,13 @@ Mobile app that analyzes tourism data and helps tourists explore Nepal.
 
  Portfolio Website
 Personal portfolio showcasing my projects and skills.
+## 📊 GitHub Stats:
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsmesubas&show_icons=true&theme=tokyonight" />
+
+</p>
 
 ## 🔥 GitHub Streak Stats:
 
