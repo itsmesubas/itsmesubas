@@ -28,7 +28,13 @@ Mobile app that analyzes tourism data and helps tourists explore Nepal.
  Portfolio Website
 Personal portfolio showcasing my projects and skills.
 
+## 🔥 GitHub Streak Stats:
 
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=itsmesubas&theme=tokyonight" />
+
+</p>
 
  Connect With Me:
 
