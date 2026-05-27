@@ -17,7 +17,7 @@
 
 
 
- ### 📌 Featured Projects
+ ### 📌 Projects that i have done
 
  ### Thrifty - Thrift Store Website
 A thrift shopping platform where people can buy second hand electronic gadget in cheap price.
@@ -27,6 +27,9 @@ Mobile app that analyzes tourism data and helps tourists explore Nepal.
 
 ### Portfolio Website
 Personal portfolio showcasing my projects and skills.
+
+### Fake Email Detection System - ML and Cybersecurity (Currently working on it)
+
 
 ## 🔥 GitHub Streak Stats:
 
