@@ -10,7 +10,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,python,java,git,github,mongodb,vscode,figma,firebase,powerbi,excel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,python,git,github,mongodb,vscode,figma,firebase,powerbi,excel" />
 
 </p>
 
