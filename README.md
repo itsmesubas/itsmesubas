@@ -15,8 +15,6 @@
 </p>
 
 
-
-
  ### 📌 Projects that i have done
 
  ### Thrifty - Thrift Store Website
