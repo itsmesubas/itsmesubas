@@ -14,7 +14,6 @@
 
 </p>
 
-
  ### 📌 Projects that i have done
 
  ### Thrifty - Thrift Store Website
@@ -27,7 +26,6 @@ Mobile app that analyzes tourism data and helps tourists explore Nepal.
 Personal portfolio showcasing my projects and skills.
 
 ### Fake Email Detection System - ML and Cybersecurity (Currently working on it)
-
 
 ## 🔥 GitHub Streak Stats:
 
