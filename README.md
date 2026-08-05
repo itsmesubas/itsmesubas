@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Subash%20Dahal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Subash%20Dahal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&v=1)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Web+%26+Full+Stack+Developer;Exploring+AI+%2F+ML+and+Data+Analytics;Building+real-world+products+from+Pokhara%2C+Nepal" alt="Typing SVG" />
