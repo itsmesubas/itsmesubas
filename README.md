@@ -220,11 +220,7 @@ Personal portfolio site — multilingual (EN/NP/DE), animated, with live analyti
 
 <br>
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/itsmesubas/itsmesubas/output/github-contribution-grid-snake.svg)
-
-<br>
 
 ## 🔭 Current Focus
 
