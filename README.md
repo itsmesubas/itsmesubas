@@ -52,6 +52,8 @@ Open To: Internships · Freelance Projects · Collaborations · Junior/Entry Sof
 ![CSS3](https://img.shields.io/badge/CSS3-1e1b4b?style=flat-square&logo=css3&logoColor=A78BFA)
 ![React](https://img.shields.io/badge/React-1e1b4b?style=flat-square&logo=react&logoColor=A78BFA)
 ![Flutter](https://img.shields.io/badge/Flutter-1e1b4b?style=flat-square&logo=flutter&logoColor=A78BFA)
+
+
 **Backend & Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-1e1b4b?style=flat-square&logo=mysql&logoColor=A78BFA)
