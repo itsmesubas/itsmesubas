@@ -208,11 +208,7 @@ Personal portfolio site — multilingual (EN/NP/DE), animated, with live analyti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesubas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 </p>
 
-<div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=itsmesubas&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10)
-
-</div>
 
 <br>
 
