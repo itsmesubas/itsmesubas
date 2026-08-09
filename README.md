@@ -200,7 +200,6 @@ Personal portfolio site — multilingual (EN/NP/DE), animated, with live analyti
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsmesubas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7c3aed&text_color=c9d1d9" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmesubas&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=7c3aed&fire=7c3aed&currStreakLabel=A78BFA" />
 </p>
 
